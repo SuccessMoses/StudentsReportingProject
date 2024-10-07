@@ -17,5 +17,6 @@ The repository contains the following files and directories:
 
 ## Excel File Features
 
-The Excel file includes a slicer for selecting the `classID` and `studentID` of the students for whom reports are to be generated.
-Users can input the registration number (reg no) of the student, which utilizes the `XLOOKUP` function to pull in relevant information about the student.
+* The Excel file includes a slicer for selecting the `classID` and `studentID` of the students for whom reports are to be generated.
+
+* Users can input the registration number (reg no) of the student, which utilizes the `XLOOKUP` function to pull in relevant information about the student.
